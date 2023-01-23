@@ -1,5 +1,5 @@
 {
-  "users": [
+  "products": [
     {
       "id": "23",
       "name": "TGK",
@@ -11,7 +11,7 @@
     },
     {
       "id": "26",
-      "name": "TGK",
+      "name": "FOO",
       "marks": [
         "ddd",
         "ccc"
@@ -19,7 +19,7 @@
     },
     {
       "id": "32",
-      "name": "TGK",
+      "name": "BAR",
       "marks": [
         "aa",
         "ggg"
@@ -27,18 +27,18 @@
     },
     {
       "id": "64",
-      "name": "TGK"
+      "name": "BAZ"
     },
     {
       "id": "77",
-      "name": "TGK",
+      "name": "DOG",
       "marks": [
         "ccc"
       ]
     },
     {
       "id": "89",
-      "name": "TGK",
+      "name": "CAT",
       "marks": [
         "hhh",
         "uuu",

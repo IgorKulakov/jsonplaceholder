@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "name": "TGK",
+      "marks": [
+        "aa",
+        "bbb",
+        "ccc"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "TGK",
+      "marks": [
+        "ddd",
+        "ccc"
+      ]
+    },
+    {
+      "id": "32",
+      "name": "TGK",
+      "marks": [
+        "aa",
+        "ggg"
+      ]
+    },
+    {
+      "id": "64",
+      "name": "TGK"
+    },
+    {
+      "id": "77",
+      "name": "TGK",
+      "marks": [
+        "ccc"
+      ]
+    },
+    {
+      "id": "89",
+      "name": "TGK",
+      "marks": [
+        "hhh",
+        "uuu",
+        "ttt"
+      ]
+    }
+  ]
+}
